@@ -3,3 +3,16 @@ t.co
 
 // Health check
 connectivitycheck.gstatic.com
+
+// Microsoft (https://www.reddit.com/r/pihole/comments/j1bi15/pihole_and_azure_urls_to_whitelist)
+go.microsoft.com
+login.microsoftonline.com
+login.live.com
+account.live.com
+signup.live.com
+licensing.mp.microsoft.com
+licensing.md.mp.microsoft.com
+ztd.dds.microsoft.com
+cs.dds.microsoft.com
+ctldl.windowsupdate.com
+download.windowsupdate.com 
