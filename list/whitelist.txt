@@ -16,3 +16,8 @@ ztd.dds.microsoft.com
 cs.dds.microsoft.com
 ctldl.windowsupdate.com
 download.windowsupdate.com 
+
+// Windows Phone Link
+dcg.microsoft.com
+mobile.events.data.microsoft.com
+service.signalr.net
