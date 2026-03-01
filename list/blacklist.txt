@@ -1,2 +1,7 @@
 // NGA Website AD
 g1.tagtic.cn
+
+
+// Twitter timeline spam 
+video.twimg.jp
+video-twimg.github.io
