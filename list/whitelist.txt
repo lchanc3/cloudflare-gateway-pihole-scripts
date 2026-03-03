@@ -1,10 +1,10 @@
-// Twitter short link
+# Twitter short link
 t.co
 
-// Health check
+# Health check
 connectivitycheck.gstatic.com
 
-// Microsoft (https://www.reddit.com/r/pihole/comments/j1bi15/pihole_and_azure_urls_to_whitelist)
+# Microsoft (https://www.reddit.com/r/pihole/comments/j1bi15/pihole_and_azure_urls_to_whitelist)
 go.microsoft.com
 login.microsoftonline.com
 login.live.com
@@ -17,7 +17,7 @@ cs.dds.microsoft.com
 ctldl.windowsupdate.com
 download.windowsupdate.com 
 
-// Windows Phone Link
+# Windows Phone Link
 dcg.microsoft.com
 mobile.events.data.microsoft.com
 service.signalr.net
