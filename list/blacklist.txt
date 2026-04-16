@@ -6,3 +6,6 @@ g1.tagtic.cn
 # github.io is already in DandelionSprout/AdGuard-Home-Whitelist, must also be added to ZeroTrust traffic-policies/policies/dns
 video.twimg.jp
 video-twimg.github.io
+
+# PopUp AD
+diffusedpassionquaking.com 
